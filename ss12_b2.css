@@ -1,0 +1,17 @@
+.form{
+    line-height: 1.5;
+}
+.radio{
+    accent-color: blue;
+}
+button{
+    border: 1px solid green;
+    background-color: green;
+    color: white;
+    padding: 8px;
+    border-radius: 4px;
+}
+.input{
+    width: 20%;
+    padding: 5px
+}
