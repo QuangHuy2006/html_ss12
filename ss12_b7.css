@@ -1,0 +1,38 @@
+.img-border{
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid grey;
+    padding-top: 20px;
+}
+.img1{
+   position: relative; 
+}
+.img2{
+    position: relative; 
+}
+.img3{
+    position: relative; 
+}
+.text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    bottom: 40%;
+    transform: translate(-50%,-50%);
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+}
+.text2{
+    display: flex;
+    align-items: center;
+    gap: 60px;
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    bottom: 20%;
+    transform: translate(-50%,-50%);
+    color: white;
+    font-size: 10px;
+}
+
